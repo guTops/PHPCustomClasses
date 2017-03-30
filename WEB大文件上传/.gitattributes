@@ -1,0 +1,11 @@
+.*
+*.iml
+.idea/
+uploads/
+serverNode/node_modules/
+serverNode/tmp/
+serverJAVAEE/.idea/
+serverJAVAEE/target/
+serverJAVAEE/serverJAVAEE.iml
+/serverDubbox/target
+/serverDubbox/log
